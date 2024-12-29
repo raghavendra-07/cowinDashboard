@@ -1,6 +1,7 @@
 {
   "name": "cowin-dashboard",
   "private": true,
+  "homepage": "https://raghavendra-07.github.io/cowinDashboard/"
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
